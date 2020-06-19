@@ -1,7 +1,7 @@
 {
   "巰": {
     "username": "test001",
-    "skinurl": "https://raw.githubusercontent.com/vAngelx/hslo540/master/skins_kanji/test001.png"
+    "skinurl": "https://i.imgur.com/xTR1ref.jpg"
   },
   "曷": {
     "username": "YueAgar_c",
