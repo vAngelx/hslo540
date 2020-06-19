@@ -1,7 +1,7 @@
 {
   "巰": {
     "username": "test001",
-    "skinurl": "https://i.imgur.com/0js2PiW.png"
+    "skinurl": "https://i.imgur.com/FmODn9R.png"
   },
   "曷": {
     "username": "YueAgar_c",
